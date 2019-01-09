@@ -4,7 +4,7 @@
         <loc>https://www.zhuangyan.cn/</loc>
         <wise_loc>https://www.zhuangyan.cn/</wise_loc>
         <lastmod>2018-12-12</lastmod>
-        <changefreq>never</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
         <data>
             <display>
@@ -20,12 +20,48 @@
                 <language>zh_cn</language>
                 <track>
                     <album_id>1</album_id>
-                    <track_title>神奇树屋</track_title>
-                    <track_title_alias>神奇树屋</track_title_alias>
+                    <track_title>神奇树屋01</track_title>
+                    <track_title_alias>少儿英语故事</track_title_alias>
                     <track_tags>儿童</track_tags>
                     <duration>60</duration>
                     <source_play_count>0</source_play_count>
                     <play_url_mp3>{"default":"https://www.zhuangyan.cn/album/MagicTreeHouse/01.mp3"}</play_url_mp3>
+                    <source_order_num>1</source_order_num>
+                    <source_update_time>149834389</source_update_time>
+                    <source_create_time>143948549</source_create_time>
+                    <sale_type>0</sale_type>
+                    <is_trailer>0</is_trailer>
+                    <has_sample>0</has_sample>            
+                </track>
+            </display>
+        </data>
+    </url>
+    <url>
+        <loc>https://www.zhuangyan.cn/</loc>
+        <wise_loc>https://www.zhuangyan.cn/</wise_loc>
+        <lastmod>2018-12-12</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <data>
+            <display>
+                <action>add</action>
+                <entity_type>0</entity_type>
+                <source_id>1</source_id>
+                <album_id>1</album_id>
+                <source_name>b677959c-5085-67f0-07bc-cab6bafa1425</source_name>
+                <source_type>unicast</source_type>
+                <presenter>不告诉你</presenter>
+                <original_author>不告诉你</original_author>
+                <announcer>不告诉你</announcer>
+                <language>zh_cn</language>
+                <track>
+                    <album_id>1</album_id>
+                    <track_title>神奇树屋02</track_title>
+                    <track_title_alias>少儿英语故事</track_title_alias>
+                    <track_tags>儿童</track_tags>
+                    <duration>60</duration>
+                    <source_play_count>0</source_play_count>
+                    <play_url_mp3>{"default":"https://www.zhuangyan.cn/album/MagicTreeHouse/02.mp3"}</play_url_mp3>
                     <source_order_num>1</source_order_num>
                     <source_update_time>149834389</source_update_time>
                     <source_create_time>143948549</source_create_time>
